@@ -1,0 +1,8 @@
+grades:
+- grade: 95
+  subject: Math
+- grade: 88
+  subject: Science
+- grade: 92
+  subject: History
+student: John Doe

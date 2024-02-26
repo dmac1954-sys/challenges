@@ -1,0 +1,7 @@
+employees:
+  - name: John Doe
+    age: 30
+    position: Developer
+  - name: Jane Smith
+    age: 35
+    position: Manager
